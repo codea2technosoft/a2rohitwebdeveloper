@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Riviera Nights';
+    src: url('RivieraNights-Regular.woff2') format('woff2'),
+        url('RivieraNights-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Riviera Nights';
+    src: url('RivieraNights-Bold.woff2') format('woff2'),
+        url('RivieraNights-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Riviera Nights';
+    src: url('RivieraNights-Medium.woff2') format('woff2'),
+        url('RivieraNights-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Riviera Nights';
+    src: url('RivieraNights-Light.woff2') format('woff2'),
+        url('RivieraNights-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Riviera Nights';
+    src: url('RivieraNights-Ultralight.woff2') format('woff2'),
+        url('RivieraNights-Ultralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
